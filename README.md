@@ -12,7 +12,7 @@
 - 💻 Desenvolvedor full stack com foco em projetos web e sistemas inteligentes  
 - 🤖 Entusiasta de automações, APIs e integração entre sistemas  
 - 🚀 Sempre aprendendo algo novo e buscando aprimorar habilidades técnicas  
-- 🛠️ Atualmente trabalhando em sistemas de suporte técnico e lojas online feitas com código puro  
+- 🛠️ Atualmente trabalhando em sistemas de suporte técnico e lojas online   
 
 ---
 
